@@ -1,6 +1,9 @@
 # 第一节 Python入门AI导读
+
 课程简介
-![intro](fig/intro.png)
+
+![intro](../第一节/fig/intro.png)
+
 详见ppt
 
 ## 大纲
