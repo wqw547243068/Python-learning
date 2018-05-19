@@ -2,7 +2,7 @@
 
 课程简介
 
-![intro](../chapter_1/fig/intro.png)
+![intro](../../fig/intro.png)
 
 详见ppt
 
