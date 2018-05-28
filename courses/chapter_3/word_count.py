@@ -31,15 +31,25 @@ Namespaces are one honking great idea -- let's do more of those!
 	word_dict = {}
 	for word in zen.split():
 		#print(word)
+		#"""
 		if word in word_dict:
 			word_dict[word] += 1
 		else:
 			word_dict[word] = 1
-		# 更高效的方式
-		word_dict[word] += word_dict.get(word, 0)
+		#"""
+		# 更高效的方式,python2
+		#word_dict[word] += word_dict.get(word, 0)
 	print('word\tcount\n%s'%('='*20))
 	for k in word_dict:
 		print('%s\t%s'%(k, word_dict[k]))
+	# 排序
+	key_list = list(word_dict.items())
+	key_list.sort()#就地排序
+	#sorted(word_dict.items())
+	#key_list = sorted(list(word_dict.items()), cmp=lambda x,y : cmp(x[1], y[1]), reverse=True)
+	print('word\tcount\n%s'%('='*20))
+	for k in key_list:
+		print('%s\t%s'%(k[0], word_dict[k[0]]))
 
 if __name__ == "__main__":
 	print('开始调用主函数')
