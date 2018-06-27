@@ -93,8 +93,11 @@
    - kaggle数据分析，数据源参考：[各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
 1. 总结
 
+#### 第七节 iris和mnist
+1. iris数据集+机器学习实战, [有道笔记链接](http://note.youdao.com/noteshare?id=d056f57ae605874c8485ae50eddc8d66&sub=D81038A5C91E4BE6A612ACEB8A56AEDE)
+1. mnist数据集+tensorflow进阶，[jupyter notebook地址](./courses/chapter_7/scikit-learn-example.ipynb)
+
+
 ## 交流分享
 欢迎大家入群分享、交流！
 ![简介](fig/contact.png)
-
-
