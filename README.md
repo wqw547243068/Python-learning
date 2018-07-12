@@ -93,9 +93,84 @@
    - kaggle数据分析，数据源参考：[各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
 1. 总结
 
+
+#### 第五节 机器学习基础
+1. 什么是机器学习
+   - 各种关系
+1. 基本概念
+   - 流程,[Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/training-and-test-sets/video-lecture),[使用sklearn做单机特征工程](https://www.cnblogs.com/jasonfreak/p/5448385.html),[用正则化(Regularization)来解决过拟合](https://www.cnblogs.com/ooon/p/4964441.html)
+   - 专业术语
+   - 典型问题
+1. 经典算法
+   - [图解机器学习](https://my.oschina.net/taogang/blog/1544709),[动态图体验网址](https://codepen.io/collection/DPWwaj/2/)
+   - [图解机器学习](C:\Users\wqw\Desktop\tantan\fastai\好玩儿的python\ppt\图解机器学习), web形式展示机器学习的前后过程
+1. 案例
+   - [Scikit-learn官网](http://scikit-learn.org/stable/),[中文文档](http://sklearn.apachecn.org/cn/0.19.0/)
+   - [Sklearn快速使用及经典算法实现](https://www.cnblogs.com/lianyingteng/p/7811126.html)
+1. 总结
+
+
+#### 第六节 深度学习基础
+1. 什么是深度学习
+   - 定义+发展历史
+1. 神经网络
+   - 基本流程
+   - 反向传播
+   - 梯度下降
+   - 资料：[可视化神经网络空间变换](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html),[Google playground](http://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=circle&regDataset=reg-gauss&learningRate=0.03&regularizationRate=0.001&noise=0&networkShape=4,3,4,2&seed=0.57107&showTestData=false&discretize=false&percTrainData=50&x=true&)
+   - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+1. Tensorflow
+   - [小白都能懂的tensorflow教程](http://www.sohu.com/a/126825423_465975)
+1. Tensorboard
+   - [详解TensorBoard如何调参](https://blog.csdn.net/qunnie_yi/article/details/80129434)
+1. 总结
+
+
+
 #### 第七节 iris和mnist
 1. iris数据集+机器学习实战, [有道笔记链接](http://note.youdao.com/noteshare?id=d056f57ae605874c8485ae50eddc8d66&sub=D81038A5C91E4BE6A612ACEB8A56AEDE)
 1. mnist数据集+tensorflow进阶，[jupyter notebook地址](./courses/chapter_7/scikit-learn-example.ipynb)
+
+#### 第八节 RNN和NLP
+1. RNN简介
+   - 资料：[循环神经网络（RNN）原理通俗解释](https://blog.csdn.net/qq_39422642/article/details/78676567),[TensorFlow中RNN实现的正确打开方式](https://blog.csdn.net/starzhou/article/details/77848156)
+   - [理解LSTM网络](https://www.jianshu.com/p/9dc9f41f0b29),[英文原文](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. 应用：
+   - 分类：再谈MNIST,[RNN用于MNIST分类](https://cuiqingcai.com/4934.html)
+   - 回归：股票预测, [LSTM股票预测](https://blog.csdn.net/mylove0414/article/details/55805974)
+1. NLP简介
+   - NLP基本概念
+      - [NLP学习总结](https://www.jianshu.com/p/ee484fd1c6d8),[十分钟NLP概述](https://www.cnblogs.com/baiboy/p/learnnlp.html),[BosonNLP在线示例](https://bosonnlp.com/demo#overview-emotion)
+
+1. 应用
+   - 聊天机器人
+      - [python分析微信朋友圈](https://blog.csdn.net/u012485099/article/details/79522144),[Python解密微信大数据](https://zhuanlan.zhihu.com/p/33230381),[Itchat微信自动回复](https://zhuanlan.zhihu.com/p/34238048)
+   - seq2seq,[charRNN-TF](https://github.com/hzy46/Char-RNN-TensorFlow)
+1. 总结
+   - 资料,[语音机器人](https://www.thepaper.cn/newsDetail_forward_2238654),[艾诚中英文切换超自如 对话网红机器人获赞](http://ent.enorth.com.cn/system/2017/09/14/033729404.shtml)
+
+#### 第九节 CNN和CV
+1. iris数据集+机器学习实战
+1. CNN简介
+   - 计算机视觉
+      - [YJango的卷积神经网络——介绍](https://zhuanlan.zhihu.com/p/27642620),[SIFT与HOG特征提取](http://blog.csdn.net/taigw/article/details/42206311)
+      - [李飞飞《让冰冷的机器读懂照片背后的故事》](http://www.ifanr.com/648667),[TED视频《我们怎样教计算机理解图片》](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-cn),[网易公开课：《李飞飞：如何教计算机理解图片》](http://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html)
+   - CNN基本结构
+      - 《神经网络与深度学习》吴岸城,[Deep Learning（深度学习）学习笔记整理系列之（一）](http://blog.csdn.net/zouxy09/article/details/8775360),[Andrew Ng 深度学习(Deep Learning)介绍](http://blog.sina.com.cn/s/blog_50a5cf290101r7a6.html)
+      - [YJango的卷积神经网络——介绍](https://zhuanlan.zhihu.com/p/27642620),[卷积神经网络工作原理直观的解释？](https://www.zhihu.com/question/39022858)
+      - [Yann LeCun连发三弹：人人都懂的深度学习基本原理（附视频）](https://www.leiphone.com/news/201612/Sjkmer9Kto5ILxFk.html?utm_source=itdadao&utm_medium=referral)
+      - [卷积神经网络中用1*1 卷积有什么作用或者好处呢？](https://www.zhihu.com/question/56024942)
+      - 手写数字识别[3D交互体验](http://scs.ryerson.ca/~aharley/vis/conv/)
+      - [CNN发展历史](http://www.cnblogs.com/52machinelearning/p/5821591.html),[台大李宏毅：一天搞懂深度学习](http://v.youku.com/v_show/id_XMTY5NDUzNjIxNg==.html?from=s1.8-1-1.2&spm=0.0.0.0.LZsB12%EF%BC%8C%E4%B8%80%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92--%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97)
+
+1. 应用
+   - 目标检测,作业：[Tensorflow lite在移动设备上的运行Demo](https://blog.csdn.net/masa_fish/article/details/54097796)
+   - 人脸识别,作业：[python的人脸识别工具包face recognition](https://github.com/ageitgey/face_recognition)
+   - 参考资料：[Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression](http://aaronsplace.co.uk/papers/jackson2017recon/),[2D图像三维重建Demo体验地址](http://www.cs.nott.ac.uk/~psxasj/3dme/view.php?name=../59b415560b915),[表情替换，DeepWarp Demo Page](http://163.172.78.19/)
+   - 颜值预测，[一个基于 TensorFlow 的「颜值评分」开源项目：FaceRank](https://zhuanlan.zhihu.com/p/28208481)
+1. 反思
+   - [Geoffrey Hinton多伦多大学演讲：卷积神经网络的问题](http://www.sohu.com/a/165989490_465975)
+   - [Hinton的Capsule论文全公开！首发《胶囊间的动态路由》原文精译，了解Hinton的胶囊网络ㅣ第一部分：直觉](http://mp.weixin.qq.com/s/gAFKrUjfQyqaDKNyMRitZg)
 
 
 ## 交流分享
