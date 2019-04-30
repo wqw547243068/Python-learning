@@ -176,3 +176,29 @@
 ## 交流分享
 欢迎大家入群分享、交流！
 ![简介](fig/contact.png)
+
+
+---
+<iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px" height="20px"
+   src="https://ghbtns.com/github-btn.html?user=wqw547243068&repo=Python-learning&type=star&count=true" >
+</iframe>
+---
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1a51e147a534affacc6d2fc72c71c470";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139247575-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-139247575-3');
+</script>
+---
