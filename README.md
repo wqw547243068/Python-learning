@@ -1,4 +1,4 @@
-# Python-learning
+# [Python-learning](https://wqw547243068.github.io/Python-learning/)
 **好玩儿的Python：从数据挖掘到深度学习**
 - 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
 
