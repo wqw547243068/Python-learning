@@ -189,7 +189,7 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?1a51e147a534affacc6d2fc72c71c470";
+  hm.src = "https://hm.baidu.com/hm.js?6901006744d7c1765b5599dbbab1ba17";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
