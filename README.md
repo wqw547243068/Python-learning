@@ -1,7 +1,9 @@
 # Python-learning
 **好玩儿的Python：从数据挖掘到深度学习**
 - 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
+
 ![info](http://static.mooc.ai/files/course/2018/05-08/17590372d80d143595.jpg)
+
 ![简介](fig/intro.png)
 
 ## Git代码库
