@@ -177,7 +177,7 @@
 
 ## 其他
 ### big bang可视化分析
-- 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang.ipynb)
+- 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang_theory.ipynb)
 - ![](https://pmcvariety.files.wordpress.com/2019/05/the-big-bang-theory-artisans.jpg?w=1000&h=563&crop=1)
 - [TelAntiNomy](https://blog.csdn.net/Tele_Anti_Nomy/article/details/88092709)
 - ![](https://img-blog.csdnimg.cn/20190305094504431.jpg)
