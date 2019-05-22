@@ -178,10 +178,11 @@
 ## 其他
 ### big bang可视化分析
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang.ipynb)
+- 
 - 【2019-05-22】汇总top场景的top人物的词频[heatmap](courses/chapter_3/heatmap_freq.html)
 - <iframe src="courses/chapter_3/heatmap_freq.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="400" width="600"> </iframe>
 - 台词汇总[vis_summary](courses/chapter_3/vis_summary.html)
-- <iframe src="courses/chapter_3/vis_summary.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="2000" width="100%"> </iframe>
+- <iframe src="courses/chapter_3/vis_summary.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="1500" width="100%"> </iframe>
 - top场景top人物的词云汇总[vis_summary](courses/chapter_3/vis_summary.html)
 - <iframe src="courses/chapter_3/vis_wordcloud.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 - pyecharts的词云demo：
