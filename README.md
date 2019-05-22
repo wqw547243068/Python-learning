@@ -178,7 +178,9 @@
 ## 其他
 ### big bang可视化分析
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang.ipynb)
-- 
+- ![](https://pmcvariety.files.wordpress.com/2019/05/the-big-bang-theory-artisans.jpg?w=1000&h=563&crop=1)
+- [TelAntiNomy](https://blog.csdn.net/Tele_Anti_Nomy/article/details/88092709)
+- ![](https://img-blog.csdnimg.cn/20190305094504431.jpg)
 - 【2019-05-22】汇总top场景的top人物的词频[heatmap](courses/chapter_3/heatmap_freq.html)
 - <iframe src="courses/chapter_3/heatmap_freq.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="400" width="600"> </iframe>
 - 台词汇总[vis_summary](courses/chapter_3/vis_summary.html)
