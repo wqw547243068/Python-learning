@@ -189,7 +189,7 @@
 - <iframe src="courses/chapter_3/vis_wordcloud.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 - pyecharts的词云demo：
 - <iframe src="courses/chapter_3/wordcloud.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
-- [markdown转html格式工具](https://www.bejson.com/convert/html2markdown/)
+- [markdown转html格式工具](https://dillinger.io/)
 
 ## 交流分享
 欢迎大家入群分享、交流！
