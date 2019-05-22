@@ -179,6 +179,8 @@
 ### big bang可视化分析
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang.ipynb)
 - 【2019-05-22】[heatmap](courses/chapter_3/heatmap_freq.html)
+- <iframe src="courses/chapter_3/heatmap_freq.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
+- 神经网络3D仿真特效（多种网络结构对比）
 
 ## 交流分享
 欢迎大家入群分享、交流！
