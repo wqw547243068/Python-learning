@@ -178,6 +178,7 @@
 ## 其他
 ### big bang可视化分析
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang.ipynb)
+- 【2019-05-22】[heatmap](courses/chapter_3/heatmap_freq.html)
 
 ## 交流分享
 欢迎大家入群分享、交流！
