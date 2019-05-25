@@ -175,7 +175,7 @@
    - [Geoffrey Hinton多伦多大学演讲：卷积神经网络的问题](http://www.sohu.com/a/165989490_465975)
    - [Hinton的Capsule论文全公开！首发《胶囊间的动态路由》原文精译，了解Hinton的胶囊网络ㅣ第一部分：直觉](http://mp.weixin.qq.com/s/gAFKrUjfQyqaDKNyMRitZg)
 
-## 其他
+## 数据挖掘实战
 ### big bang可视化分析
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang_theory.ipynb)
 - ![](https://pmcvariety.files.wordpress.com/2019/05/the-big-bang-theory-artisans.jpg?w=1000&h=563&crop=1)
@@ -190,6 +190,11 @@
 - pyecharts的词云demo：
 - <iframe src="courses/chapter_3/wordcloud.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 - [markdown转html格式工具](https://dillinger.io/)
+
+### 华为讲话稿分析
+- 【2019-05-25】[独立页面](https://wqw547243068.github.io/Python-learning/data_mining/huawei)
+- <iframe src="data_mining/huawei.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
+
 
 ## 交流分享
 欢迎大家入群分享、交流！
