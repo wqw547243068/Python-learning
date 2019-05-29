@@ -1,6 +1,7 @@
 # [Python-learning](https://wqw547243068.github.io/Python-learning/)
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=523axaxp3fg&amp;s=350&amp;m=7&amp;v=false&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+---
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ccx59t5xwh&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+---
 
 **好玩儿的Python：从数据挖掘到深度学习**
 - 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
