@@ -3,6 +3,14 @@
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5zge2m4jbm9&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 ---
 
+![](https://img.shields.io/badge/language-python-green.svg) 
+[![GitHub stars](https://img.shields.io/github/stars/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/network)
+[![GitHub issues](https://img.shields.io/github/issues/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/issues)
+[![GitHub release](https://img.shields.io/github/release/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wqw547243068/wqw547243068.github.io/master/LICENSE)
+---
+
 **好玩儿的Python：从数据挖掘到深度学习**
 - 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
 
@@ -206,8 +214,9 @@
 ## 交流分享
 欢迎大家入群分享、交流！
 ![简介](fig/contact.png)
-
-
+---
+<iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=Python-learning&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=Python-learning&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 ---
 <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px" height="20px"
    src="https://ghbtns.com/github-btn.html?user=wqw547243068&repo=Python-learning&type=star&count=true" >
