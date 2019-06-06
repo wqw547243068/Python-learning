@@ -1,6 +1,8 @@
 # [Python-learning](https://wqw547243068.github.io/Python-learning/)
+
 ---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5zge2m4jbm9&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+
 ---
 
 ![](https://img.shields.io/badge/language-python-green.svg) 
@@ -9,6 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/issues)
 [![GitHub release](https://img.shields.io/github/release/wqw547243068/Python-learning.svg)](https://github.com/wqw547243068/Python-learning/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wqw547243068/wqw547243068.github.io/master/LICENSE)
+
 ---
 
 **好玩儿的Python：从数据挖掘到深度学习**
@@ -28,11 +31,16 @@
 
 |*时间*|*章节*|*题目*|*作业*|*备注*|
 |----|----|:------:|:----|:----|
-|2018-5-14|第一节|导读|||
+|2018-5-14|第一节|入门导读|||
 |2018-5-21|第二节|Python基础|请完成ppt里提到的5-6个作业|这节课长达2h，内容非常多|
+|2018-05-28|第三节|Python基础（续）|面向对象编程|
 |2018-5-28|第三节|文本处理||字符串+面向对象+文本处理|
 |2018-6-6|第四节|数据分析基础||Python生态圈及数据分析|
-|||||||
+|-|第五节|机器学习基础|机器学习基本流程及Scikit-learn|||
+|-|第六节|深度学习基础|深度学习简介及tensorflow|||
+|-|第七节|iris和mnist|实战环节|||
+|-|第八节|RNN和NLP|聊天机器人|||
+|-|第九节|CNN和CV|人脸识别、目标检测|||
 
 
 ### 内容提要
