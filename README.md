@@ -190,7 +190,7 @@
 ## 数据挖掘实战
 - 以下是帮大数据文摘做的挖掘分析
 ### big bang可视化分析
-- [临别给《生活大爆炸》做个台词数据分析，你猜谢耳朵最爱说什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1559806346&ver=1651&signature=ghdcA8eGmPBbxllQXe5ftDZK8UVlZeSTMw0ZxLT82lFr1kB-QDJf3rf0MVIFearpvqtmvKnSAvGEIvvwxC8p5lc*umYWB7HcHFkYWl*M-inWZ8KZHrkZvL0IHW*XB5jH&new=1)
+- 【2019-05-22】[临别给《生活大爆炸》做个台词数据分析，你猜谢耳朵最爱说什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1559806346&ver=1651&signature=ghdcA8eGmPBbxllQXe5ftDZK8UVlZeSTMw0ZxLT82lFr1kB-QDJf3rf0MVIFearpvqtmvKnSAvGEIvvwxC8p5lc*umYWB7HcHFkYWl*M-inWZ8KZHrkZvL0IHW*XB5jH&new=1)
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang_theory.ipynb)
 - ![](https://pmcvariety.files.wordpress.com/2019/05/the-big-bang-theory-artisans.jpg?w=1000&h=563&crop=1)
 - [TelAntiNomy](https://blog.csdn.net/Tele_Anti_Nomy/article/details/88092709)
@@ -206,7 +206,7 @@
 - [markdown转html格式工具](https://dillinger.io/)
 
 ### 华为讲话稿分析
-- [卅年春秋，谁主沉浮？从400篇任正非演讲稿分析中，一探华为](https://mp.weixin.qq.com/s?src=11&timestamp=1559806219&ver=1651&signature=ghdcA8eGmPBbxllQXe5ftDZK8UVlZeSTMw0ZxLT82lHj9VSWb6EKrYB5SbBSR3GHFXwEzAB2ZBBzHuC-TmetZhzzCFPO-Cy9UhK8QLT-*Hc8kjgvLxXpBppgPcoR4ORm&new=1)
+- 【2019-05-25】[卅年春秋，谁主沉浮？从400篇任正非演讲稿分析中，一探华为](https://mp.weixin.qq.com/s?src=11&timestamp=1559806219&ver=1651&signature=ghdcA8eGmPBbxllQXe5ftDZK8UVlZeSTMw0ZxLT82lHj9VSWb6EKrYB5SbBSR3GHFXwEzAB2ZBBzHuC-TmetZhzzCFPO-Cy9UhK8QLT-*Hc8kjgvLxXpBppgPcoR4ORm&new=1)
 - 【2019-05-25】[独立页面](https://wqw547243068.github.io/Python-learning/data_mining/huawei)
 - <iframe src="data_mining/huawei.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 
