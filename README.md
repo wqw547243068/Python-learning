@@ -189,6 +189,7 @@
 
 ## 数据挖掘实战
 - 以下是帮大数据文摘做的挖掘分析
+
 ### big bang可视化分析
 - 【2019-05-22】[临别给《生活大爆炸》做个台词数据分析，你猜谢耳朵最爱说什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1559806346&ver=1651&signature=ghdcA8eGmPBbxllQXe5ftDZK8UVlZeSTMw0ZxLT82lFr1kB-QDJf3rf0MVIFearpvqtmvKnSAvGEIvvwxC8p5lc*umYWB7HcHFkYWl*M-inWZ8KZHrkZvL0IHW*XB5jH&new=1)
 - 用python分析big bang台词，并可视化，[jupyter笔记](https://github.com/wqw547243068/Python-learning/blob/master/courses/chapter_3/big_bang_theory.ipynb)
