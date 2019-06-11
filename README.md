@@ -14,7 +14,7 @@
 
 ---
 
-**好玩儿的Python：从数据挖掘到深度学习**
+**好玩儿的Python：从数据挖掘到深度学习-From Data Mining to Deep Learning**
 - 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
 
 ![info](http://static.mooc.ai/files/course/2018/05-08/17590372d80d143595.jpg)
