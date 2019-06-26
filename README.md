@@ -91,7 +91,7 @@
 #### 第四节 Python数据分析基础
 1. 数据基础
    - 线性代数（35%）
-      - 资料：[「Deep Learning」读书系列分享第二章：线性代数-分享总结](https://www.leiphone.com/news/201708/iL1S8jkc4ytZFzHS.html) 【文字版】, [线性代数笔记](https://note.youdao.com/share/?id=2dd5b67042a5a49bd81a450c0a7490be&type=note#/)
+      - 资料：[「Deep Learning」读书系列分享第二章：线性代数-分享总结](https://www.leiphone.com/news/201708/iL1S8jkc4ytZFzHS.html) 【文字版】, [线性代数笔记](https://share.weiyun.com/5ARfiQx)
    - 概率与信息论（25%）
       - 资料：[「Deep Learning」读书系列分享第三章：概率和信息论-分享总结](https://www.leiphone.com/news/201708/lbN7eWYBcovwhhN7.html)，【文字版】
       - 其他资料：[Deep Learning解读合辑-国庆特辑](https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=503183187&idx=1&sn=cf18a77ef1249b589c89e23e0ddcae9e&chksm=3ec1ca2009b64336d14cacc57a4dadd6f732af61cf29b6517df7c1387d5eedcd00837dab88e3&mpshare=1&scene=23&srcid=0605oj6B3P1HddCiBJgOolQE#rd), 视频版
