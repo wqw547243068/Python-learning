@@ -223,7 +223,7 @@
 - 【2019-05-28】用DBSCAN将定位点聚类成簇，再做分类预测，判断常驻点，[示例](https://wqw547243068.github.io/Python-learning/data_mining/cluster.html)
 - <iframe src="data_mining/cluster.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 
-### 轨迹点聚类分析
+### 新冠状病毒感染可视化
 - 【2020-02-06】python+pyecharts可视化新冠状病毒（武汉肺炎）分布，[示例](https://wqw547243068.github.io/Python-learning/data_mining/ncov.html)
 - <iframe src="data_mining/ncov.html" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="800" width="100%"> </iframe>
 
